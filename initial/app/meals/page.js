@@ -7,8 +7,7 @@ import { getMeals } from "@/lib/meals";
 export default async function MealsPage(){
   const meals = await getMeals();
 
-  console.log('meals', meals)
-
+ 
     return(
         <>
         <header className={classes.header}>
