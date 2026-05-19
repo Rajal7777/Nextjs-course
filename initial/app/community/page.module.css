@@ -6,7 +6,6 @@
   color: #ddd6cb;
   font-size: 1.5rem;
   text-align: center;
-  border: 1px solid white;
 }
 
 .header h1 {
@@ -21,7 +20,6 @@
 }
 
 .main {
-    border: 1px solid white;
     width: 90%;
     max-width: 40rem;
     margin: 0 auto;
