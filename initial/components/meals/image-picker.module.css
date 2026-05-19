@@ -24,8 +24,8 @@
 }
 
 .preview {
-  width: 10rem;
-  height: 10rem;
+  width: 12rem;
+  height: 12rem;
   border: 2px solid #a4abb9;
   display: flex;
   justify-content: center;
@@ -41,5 +41,5 @@
 }
 
 .preview img {
-  object-fit: cover;
+ object-fit: cover;
 }
