@@ -3,7 +3,6 @@
   align-items: flex-start;
   gap: 1.5rem;
   margin-bottom: 1rem;
-  align-items: center;
 }
 
 .picker .input {
@@ -36,11 +35,11 @@
   position: relative;
 }
 
-.preview P {
-    margin: 0;
-    padding: 1rem;
+.preview p {
+  margin: 0;
+  padding: 1rem;
 }
 
-.preview img{
-    object-fit: cover;
+.preview img {
+  object-fit: cover;
 }
